@@ -1,6 +1,6 @@
 # Training JavaScript skills by solving Codewars challenges
 
-By doing codewars challenges I intend to sharp my **JavaScript** while training my **problem solving** and **mathematical** skills.
+By doing codewars challenges I intend to sharp my **JavaScript** while training my **analytical** and **mathematical** skills.
 
 ### Codewars
 
