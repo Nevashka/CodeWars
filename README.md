@@ -15,5 +15,5 @@ By doing codewars challenges I intend to sharp my **JavaScript** while training 
 
 1. Each file refers to one **code challenge**
 2. They are named after their respective code challenge's title.
-3. Challenge's description is at the top.
+3. Challenge's description is at the top of files.
 
