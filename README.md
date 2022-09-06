@@ -1,4 +1,4 @@
-# Training JavaScript Skills by solving Codewars challenges
+# Training JavaScript skills by solving Codewars challenges
 
 By doing codewars challenges I intend to sharp my **JavaScript** while training my **problem solving** and **mathematical** skills.
 
